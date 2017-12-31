@@ -8,6 +8,6 @@ class Vehicle():
         self.dvideo = dvideo
 
     def print_details(self):
-        #prints the make and model of the vehicle
-              print("The make of this vehicle is :" + self.make)
-              print("The model of this vehicle is :" + self.model) 
+        # prints the make and model of the vehicle
+        print("The make of this vehicle is :" + self.make)
+        print("The model of this vehicle is :" + self.model)
