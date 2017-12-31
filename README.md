@@ -1,4 +1,4 @@
-# point_of_view_driving
+# Point of View Driving
 This is a python scripts that generates a html file featuring point of view drives of cars and motorcycles
 
 This code is available from the github repository https://github.com/Bami24/point_of_view_driving
